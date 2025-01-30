@@ -43,6 +43,7 @@
                             environment-image="neutral"
                             shadow-intensity="1"
                             disable-zoom
+                            camera-controls
                             exposure="1"
                             style="width: 100%; height: 100%">
                             <div class="progress-bar" slot="progress-bar"></div>

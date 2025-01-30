@@ -186,7 +186,6 @@
                                 rotation-per-second="30deg"
                                 environment-image="neutral"
                                 shadow-intensity="1"
-                                camera-controls
                                 disable-zoom
                                 exposure="1"
                                 style="width: 100%; height: 100%">
